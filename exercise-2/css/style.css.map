@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AASA,mBAAmB;AAKnB,uCAAuC;ACdvC;iFACiF;AAEjF;;IAEI;AAIJ;;sBAEsB;AAGtB;;IAEI;AChBJ;4CAC4C;AAE5C;;IAEI",
-"sources": ["../sass/_vars.scss","../sass/_mixins.scss","../sass/_funcs.scss"],
-"names": [],
-"file": "style.css"
-}
