@@ -1,0 +1,40 @@
+html {
+  box-sizing: border-box; }
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0; }
+
+body {
+  font-family: sans-serif;
+  font-size: 16px;
+  line-height: 1.5; }
+
+.sidebar {
+  background: AquaMarine;
+  padding: 5vw; }
+
+.content {
+  padding: 3vw; }
+  .content p {
+    margin-bottom: 3vh; }
+  .content h1 {
+    margin-bottom: 3vh; }
+
+.grid .grid-item {
+  color: White;
+  background: Tomato;
+  padding: 3vw;
+  margin-bottom: 1rem; }
+  .grid .grid-item:nth-child(even) {
+    background: Grey; }
+  .grid .grid-item a {
+    color: inherit;
+    font-weight: bold; }
+    .grid .grid-item a:hover {
+      color: black; }
+
+/*# sourceMappingURL=style.css.map */
